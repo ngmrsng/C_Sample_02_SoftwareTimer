@@ -1,0 +1,16 @@
+/**********************************************************
+ * @file config.h
+ * @brief define macro for enable GTEST and GMOCK
+ * @author ngmrsng
+ * @date 2016/07/11
+ *********************************************************/
+
+/** @def
+ * ENABLE_GTEST
+ */
+#cmakedefine ENABLE_GTEST
+
+/** @def
+ * ENABLE_GMOCK
+ */
+#cmakedefine ENABLE_GMOCK
